@@ -26,7 +26,7 @@ import Political from "@/assests/political.png"
         {
             name: "Hotel Booking Landing Page", 
             description: "A hotel booking landing page with a beautiful design and booking form.",
-            link: "hospitalbooking-4qd3.vercel.app", 
+            link: "https://hotelbooking-rust-nine.vercel.app/", 
             image:hotel, 
             technologies: "Next.js, Tailwind CSS"
           },
