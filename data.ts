@@ -33,7 +33,7 @@ import Political from "@/assests/political.png"
           {
             name: "Green Ride Website", // Project title
             description: "A website landing page for an upcoming electronic car transit service like UBA, but with electric cars.",
-            link: "https://greenride-vercel.app", // Replace with the real URL of your Green Ride website
+            link: "https://ride-tawny.vercel.app/", // Replace with the real URL of your Green Ride website
             image: ride, // Replace with the correct image
             technologies: "React, Tailwind CSS"
           },
